@@ -28,7 +28,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-***Stopwatch Widget**
+***Stopwatch Widget***
 
 The Stopwatch Widget is a valuable addition to a planner app for several reasons:
 
